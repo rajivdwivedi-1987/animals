@@ -3,3 +3,5 @@ whitey
 chiku
 goldy
 choco
+Monty
+Mocha
